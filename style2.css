@@ -1,4 +1,3 @@
-
 body {
     
     font-family: 'Titillium Web', sans-serif;
@@ -110,7 +109,9 @@ h1{
     
 
 }
-
+.hai{
+    border-radius: 50px;
+}
 
 .Birinshi{
     width: 35%;
@@ -118,6 +119,7 @@ h1{
     background-color: #fff;
     text-align: center;
     font-size: smaller;
+    
     
 }
 .kun_3{
